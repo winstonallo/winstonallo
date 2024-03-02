@@ -6,4 +6,4 @@
     <img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=plastic" height="25" />
   </a>
 </p>
-<img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square&color=blue" alt=""/>
+<img src="https://komarev.com/ghpvc/?username=winstonallo&style=flat-square&color=blue" alt=""/>
