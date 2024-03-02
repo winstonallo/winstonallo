@@ -18,7 +18,7 @@
 </div>
 <hr>
 <div id="header", align="left", font-size="50px", font-weight="bold">
-  <strong>🛠️ languages & tools:</strong>
+  ### 🛠️ languages & tools:</strong>
 </div>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
