@@ -1,4 +1,4 @@
-<div id="badges">
+<div id="badges" style="display: flex; justify-content: center; align-items: center;">
   <a href="https://www.linkedin.com/in/arthur-bied-charreton">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" height="50"/>
   </a>
