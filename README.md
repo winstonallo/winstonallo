@@ -15,9 +15,12 @@
     <br>
     <img src="https://komarev.com/ghpvc/?username=winstonallo&style=flat-square&color=blue" alt=""/>
   </p>
+</div>
 <hr>
-
-### 🛠️ languages & tools:
+<div style="text-align: left;">
+  <strong>🛠️ languages & tools:</strong>
+</div>
+<div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
