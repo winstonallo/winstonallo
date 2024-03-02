@@ -9,6 +9,8 @@
     <a href="https://profile.intra.42.fr/users/abied-ch">
       <img src="https://img.shields.io/badge/42-000?logo=42&logoColor=fff&style=plastic" height="25" />
     </a>
+    <a href="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="25" />
+    </a>
     <br>
     <img src="https://komarev.com/ghpvc/?username=winstonallo&style=flat-square&color=blue" alt=""/>
   </p>
