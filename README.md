@@ -17,7 +17,7 @@
   </p>
 </div>
 <hr>
-<div style="text-align: left; font-size: 24px; font-weight: bold;">
+<div id="header", align="left", font-size="24", font-weight="bold">
   <strong>🛠️ languages & tools:</strong>
 </div>
 <div>
