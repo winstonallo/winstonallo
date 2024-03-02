@@ -16,7 +16,7 @@
     <img src="https://komarev.com/ghpvc/?username=winstonallo&style=flat-square&color=blue" alt=""/>
   </p>
 </div>
----
+  ---
 
 ### 🛠️ languages & tools:
 <div>
