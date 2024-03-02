@@ -19,7 +19,7 @@
 
   <hr>
 
-### 🛠️ languages & tools:
+### languages & tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
@@ -32,4 +32,10 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
-<hr>
+
+  <hr>
+
+### my stats
+<div>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=winstonallo">
+</div>
