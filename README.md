@@ -17,6 +17,7 @@
   </p>
 </div>
 <hr>
+
 ### 🛠️ languages & tools:
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
