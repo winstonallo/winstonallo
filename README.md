@@ -18,6 +18,11 @@
 </div>
 
   <hr>
+  
+### 42 projects
+<a href="https://github.com/42-project-tracking">
+  <img src="https://img.shields.io/badge/42%20projects-_-blue?style=plastic&labelColor=blue">
+</a>
 
 ### languages & tools
 <div>
