@@ -20,7 +20,7 @@
   <hr>
   
 <a href="https://github.com/42-project-tracking">
-  <img src="https://img.shields.io/badge/42%20projects-_-blue?style=plastic&labelColor=blue" height="50">
+  <img src="https://img.shields.io/badge/42-000?logo=PROJECTS&logoColor=fff&style=plastic" height="50">
 </a>
 
   <hr>
