@@ -17,7 +17,7 @@
   </p>
 </div>
 <hr>
-<div style="text-align: left;">
+<div align: left">
   <strong>🛠️ languages & tools:</strong>
 </div>
 <div>
