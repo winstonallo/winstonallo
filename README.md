@@ -23,6 +23,8 @@
   <img src="https://img.shields.io/badge/42%20projects-_-blue?style=plastic&labelColor=blue" height="50">
 </a>
 
+  <hr>
+
 ### languages & tools
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
