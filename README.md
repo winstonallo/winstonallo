@@ -16,7 +16,8 @@
     <img src="https://komarev.com/ghpvc/?username=winstonallo&style=flat-square&color=blue" alt=""/>
   </p>
 </div>
-<hr>
+
+  <hr>
 
 ### 🛠️ languages & tools:
 <div>
@@ -31,3 +32,4 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="ubuntu" alt="ubuntu" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>&nbsp;
 </div>
+<hr>
