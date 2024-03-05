@@ -12,7 +12,10 @@
     <a href="https://discordapp.com/users/winston.allo">
       <img src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white" height="30" />
     </a>
-    <br>
+    <a href="https://leetcode.com/winstonallo/">
+      <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="30" />
+    </a>
+      <br>
     <img src="https://komarev.com/ghpvc/?username=winstonallo&style=flat-square&color=blue" alt="". height="30"/>
   </p>
 </div>
