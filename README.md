@@ -28,6 +28,14 @@
 </div>
 
   <hr>
+  
+<div>
+  <a href="https://leetcode.com/problems/linked-list-cycle/solutions/4831390/rabbit-turtle-or-sth-i-didnt-see-star-wars-c-c-python3-go-java-javascript/">
+    <img src="https://img.shields.io/badge/Today's Solution-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+  </a>
+</div>
+
+  <hr>
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="c" alt="c" width="40" height="40"/>&nbsp;
