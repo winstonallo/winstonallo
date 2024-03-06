@@ -31,7 +31,7 @@
   
 <div>
   <a href="https://leetcode.com/problems/linked-list-cycle/solutions/4831390/rabbit-turtle-or-sth-i-didnt-see-star-wars-c-c-python3-go-java-javascript/">
-    <img src="https://img.shields.io/badge/Today's Solution-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06">
+    <img src="https://img.shields.io/badge/Today's Solution-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" height="40">
   </a>
 </div>
 
