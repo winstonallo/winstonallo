@@ -24,7 +24,7 @@
 
 <div header="currently working on">
   <a href="https://github.com/42-projects-abied-ch/webserv" />
-    <img src="https://img.shields.io/badge/PROJECTS-000?logo=42&logoColor=fff&style=plastic" height="50">
+    <img src="https://img.shields.io/badge/CURRENT PROJECT-000?logo=42&logoColor=fff&style=plastic" height="50">
   </a>
 </div>
 
@@ -32,7 +32,7 @@
   
 <div>
   <a href="https://github.com/42-projects-abied-ch">
-    <img src="https://img.shields.io/badge/PROJECTS-000?logo=42&logoColor=fff&style=plastic" height="50">
+    <img src="https://img.shields.io/badge/ALL PROJECTS-000?logo=42&logoColor=fff&style=plastic" height="50">
   </a>
 </div>
 
