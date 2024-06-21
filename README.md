@@ -7,7 +7,7 @@
   <div id="commiters-ranking">
     <p align="center">
       <a href="https://user-badge.committers.top/austria/winstonallo">
-        <img src="https://user-badge.committers.top/austria/winstonallo.svg" alt="committers.top badge">
+        <img src="https://user-badge.committers.top/austria/winstonallo.svg" alt="committers.top badge" height="50">
       </a>
     </p>
   </div>
