@@ -1,5 +1,3 @@
-
-
 <div id="42-projects">
   <p align="center">
     <a href="https://github.com/abied-ch">
@@ -8,8 +6,9 @@
   </p>
   <div id="commiters-ranking">
     <p align="center">
-      [![committers.top badge](https://user-badge.committers.top/austria/winstonallo.svg)](https://user-badge.committers.top/austria/winstonallo)
+      <a href="https://user-badge.committers.top/austria/winstonallo">
+        <img src="https://user-badge.committers.top/austria/winstonallo.svg" alt="committers.top badge">
+      </a>
     </p>
   </div>
 </div>
-
