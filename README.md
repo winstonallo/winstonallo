@@ -1,7 +1,5 @@
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-bied-charreton/)](https://www.linkedin.com/in/arthur-bied-charreton/) [![42 School Projects](https://img.shields.io/badge/42%20School%20Projects-000?style=flat-square&logo=42&logoColor=fff)](https://github.com/school-42-projects) [![committers.top badge](https://user-badge.committers.top/austria/winstonallo.svg)](https://user-badge.committers.top/austria/winstonallo)
 
-
-
 ## Frameworks
 
 ![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
@@ -21,8 +19,8 @@
 ## Tools
 
 ![Docker](http://img.shields.io/badge/-Docker-26C9FF?style=flat-square&logo=docker&logoColor=blue)
-![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
-![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
 
 ### Motion Graphics
 
