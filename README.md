@@ -1,4 +1,5 @@
-[![committers.top badge](https://user-badge.committers.top/austria_public/USERNAME.svg)](https://user-badge.committers.top/austria_public/USERNAME)
+[![committers.top badge](https://user-badge.committers.top/austria/USERNAME.svg)](https://user-badge.committers.top/austria/USERNAME)
+
 
 <div id="42-projects">
   <p align="center">
