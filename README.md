@@ -1,10 +1,6 @@
 <div id="projects" style="text-align: center;">
   <p>
-    <a href="https://github.com/abied-ch" style="text-decoration: none;">
-      <img src="https://img.shields.io/badge/Personal%20Repository-000?logo=github&logoColor=fff&style=plastic" height="50">
-    </a>
-  </p>
-  <p>
+    <h1>Personal repo</h1>
     <a href="https://github.com/school-42-projects" style="text-decoration: none;">
       <img src="https://img.shields.io/badge/42%20School%20Projects-000?logo=42&logoColor=fff&style=plastic" height="50">
     </a>
