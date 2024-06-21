@@ -25,11 +25,5 @@
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MariaDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
-## &#x1f4c8; GitHub Stats
 
-<a href="https://github.com/winstonallo/winstonallo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=winstonallo&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
-</a>
-<a href="https://github.com/winstonallo/winstonallo">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=winstonallo&show_icons=true&line_height=27&count_private=true&&theme=radical" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
