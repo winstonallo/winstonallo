@@ -14,7 +14,7 @@
   </div>
 </div>
 
-## [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/arthur-bied-charreton/)
+## [![Linkedin Badge](https://img.shields.io/badge/-Arthur Bied-Charreton-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/arthur-bied-charreton/)
 
 ## Technologies & Tools
 
