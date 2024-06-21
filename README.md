@@ -11,7 +11,7 @@
 ## Languages
 
 ![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/winstonallo)
-![C++](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c++&logoColor=white&link=https://github.com/winstonallo)
+![C++](https://img.shields.io/badge/C++-3d3d3d?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 ![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/winstonallo)
 
 ### Design
