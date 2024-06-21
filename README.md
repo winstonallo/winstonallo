@@ -12,6 +12,7 @@
 
 ![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/winstonallo)
 ![C++](https://img.shields.io/badge/C++-magenta?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 
 ### Design
 
