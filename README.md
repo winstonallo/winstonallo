@@ -13,7 +13,6 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&link=https://github.com/winstonallo)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
-![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8&link=https://github.com/winstonallo)
 
 ## Tools
 
@@ -26,4 +25,4 @@
 ![MariaDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonallo&layout=pie)]
