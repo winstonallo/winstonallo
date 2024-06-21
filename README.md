@@ -33,7 +33,3 @@
 <a href="https://github.com/winstonallo/winstonallo">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=winstonallo&show_icons=true&line_height=27&count_private=true&&theme=radical" />
 </a>
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=winstonallo.winstonallo)
-
-⭐️ From [winstonallo](https://github.com/winstonallo)
