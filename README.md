@@ -20,7 +20,7 @@
 
 ## Tools
 
-![Docker](http://img.shields.io/badge/-Docker-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=blue)
+![Docker](http://img.shields.io/badge/-Docker-26C9FF?style=flat-square&logo=docker&logoColor=blue)
 ![Adobe Illustrator](http://img.shields.io/badge/-Abode%20Illustrator-FC8F30?style=flat-square&logo=adobe-illustrator&logoColor=ffffff)
 ![Adobe XD](http://img.shields.io/badge/-Abode%20XD-fe61f6?style=flat-square&logo=adobe-XD&logoColor=ffffff)
 
