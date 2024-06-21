@@ -14,7 +14,8 @@
 ![C++](https://img.shields.io/badge/C++-magenta?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 ![Python](https://img.shields.io/badge/Python-magenta?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
-![Go](https://img.shields.io/badge/go-white?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
+![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8&link=https://github.com/winstonallo)
+
 
 ### Design
 
