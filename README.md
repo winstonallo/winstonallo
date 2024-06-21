@@ -13,22 +13,15 @@
     </p>
   </div>
 </div>
-[![Header](https://raw.githubusercontent.com/Pranjaljain0/Pranjaljain0/master/Asset%201.png "Header")](https://pranjaljain.tech/)
 
-### Hi there <img alt="wave" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
-## [![Twitter Badge](https://img.shields.io/badge/-@pranjaljain0-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/pranjaljain0)](https://twitter.com/pranjaljain0) [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/pranjaljain0/) [![Gmail Badge](https://img.shields.io/badge/-hello@pranjaljain.tech-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:hello@pranjaljain.tech)](mailto:hello@pranjaljain.tech)
-
-- 🔭 I’m currently working on something amazing
-- 📫 How to reach me: [www.pranjaljain.tech](https://www.pranjaljain.tech)
-- ⚡ Fun fact: I am always working
+## [![Linkedin Badge](https://img.shields.io/badge/-pranjaljain0-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/arthur-bied-charreton/)
 
 ## 🔧 Technologies & Tools
 
 ### Frontend
 
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
+![JavaScript](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 
