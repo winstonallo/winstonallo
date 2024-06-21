@@ -15,20 +15,14 @@
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 ![Go](https://img.shields.io/badge/Go-white?style=flat&logo=go&logoColor=00ADD8&link=https://github.com/winstonallo)
 
-
 ## Tools
 
 ![Docker](http://img.shields.io/badge/-Docker-26C9FF?style=flat-square&logo=docker&logoColor=blue)
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
 
-
-### Motion Graphics
-
-![Adobe After Effects](http://img.shields.io/badge/-Adobe%20After%20Effects-3C4858?style=flat-square&logo=adobe-after-effects)
-
 ### Database
 
-![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
 
 ### Deploy
