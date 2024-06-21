@@ -1,10 +1,8 @@
 # [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pranjaljain0/)](https://www.linkedin.com/in/arthur-bied-charreton/) [![42 School Projects](https://img.shields.io/badge/42%20School%20Projects-000?style=flat-square&logo=42&logoColor=fff)](https://github.com/school-42-projects)
 
-## Technologies & Tools
-
 ### Frameworks
 
-![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Node.js)
+![Django](https://img.shields.io/badge/-Django-black?style=flat-square&logo=Django)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
