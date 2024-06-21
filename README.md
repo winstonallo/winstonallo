@@ -1,4 +1,5 @@
-# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-bied-charreton/)](https://www.linkedin.com/in/arthur-bied-charreton/) [![42 School Projects](https://img.shields.io/badge/42%20School%20Projects-000?style=flat-square&logo=42&logoColor=fff)](https://github.com/school-42-projects) [![committers.top badge](https://user-badge.committers.top/austria_public/winstonallo.svg)](https://user-badge.committers.top/austria_public/winstonallo)
+# [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/arthur-bied-charreton/)](https://www.linkedin.com/in/arthur-bied-charreton/) [![42 School Projects](https://img.shields.io/badge/42%20School%20Projects-000?style=flat-square&logo=42&logoColor=fff)](https://github.com/school-42-projects) [![committers.top badge](https://user-badge.committers.top/austria/winstonallo.svg)](https://user-badge.committers.top/austria/winstonallo)
+
 
 
 ## Frameworks
@@ -9,8 +10,9 @@
 
 ## Languages
 
-![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/pranjaljain0)
-![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/pranjaljain0)
+![C](https://img.shields.io/badge/-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/winstonallo)
+![C++](https://img.shields.io/badge/-3d3d3d?style=flat&logo=cpp&logoColor=white&link=https://github.com/winstonallo)
+![Java](https://img.shields.io/badge/Java-orange?style=flat&logo=java&logoColor=white&link=https://github.com/winstonallo)
 
 ### Design
 
@@ -43,9 +45,9 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pranjaljain0&hide=css,hack&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 <a href="https://github.com/Pranjaljain0/Pranjaljain0">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=pranjaljain0&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=winstonallo&show_icons=true&line_height=27&count_private=true&&theme=radical" alt="Pranjal's GitHub Stats" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=pranjaljain0.pranjaljain0)
+![visitors](https://visitor-badge.glitch.me/badge?page_id=winstonallo.winstonallo)
 
-⭐️ From [pranjaljain0](https://github.com/pranjaljain0)
+⭐️ From [winstonallo](https://github.com/winstonallo)
