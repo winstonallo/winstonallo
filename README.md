@@ -1,4 +1,4 @@
-<div id="projects" style="text-align: center;">
+<div id="projects" style="text-align: center;" align="center">
   <p>
     <h1>Personal repo</h1>
     <a href="https://github.com/school-42-projects" style="text-decoration: none;">
