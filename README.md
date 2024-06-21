@@ -5,13 +5,6 @@
       <img src="https://img.shields.io/badge/42%20School%20Projects-000?logo=42&logoColor=fff&style=plastic" height="50">
     </a>
   </p>
-  <div id="commiters-ranking" style="margin-top: 20px;">
-    <p>
-      <a href="https://user-badge.committers.top/austria/winstonallo">
-        <img src="https://user-badge.committers.top/austria/winstonallo.svg" alt="committers.top badge" height="50">
-      </a>
-    </p>
-  </div>
   <div id="linkedin-profile" style="margin-top: 20px;">
     <p>
       <a href="https://www.linkedin.com/in/arthur-bied-charreton" style="text-decoration: none;">
