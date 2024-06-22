@@ -26,4 +26,3 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonallo&layout=pie)]
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abied-ch&layout=pie)]
