@@ -22,7 +22,8 @@
 ### Database
 
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-black?style=flat-square&logo=postgresql)
-![MariaDB](https://img.shields.io/badge/-MongoDB-black?style=flat-square&logo=mongodb)
+![MariaDB](https://img.shields.io/badge/-MariaDB-black?style=flat-square&logo=mariadb)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=winstonallo&layout=pie)]
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=abied-ch&layout=pie)]
