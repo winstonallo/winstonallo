@@ -11,9 +11,9 @@
 ![C](https://img.shields.io/badge/C-3d3d3d?style=flat&logo=c&logoColor=white&link=https://github.com/winstonallo)
 ![C++](https://img.shields.io/badge/C++-magenta?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&link=https://github.com/winstonallo)
-![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
-![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
-![Rust](https://img.shields.io/badge/Rust-beige?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
+![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript%2B%2B&logoColor=white&link=https://github.com/winstonallo)
+![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript%2B%2B&logoColor=white&link=https://github.com/winstonallo)
+![Rust](https://img.shields.io/badge/Rust-beige?style=flat&logo=rust%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 
 ## Tools
 
