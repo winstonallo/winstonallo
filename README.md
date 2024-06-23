@@ -13,6 +13,7 @@
 ![Python](https://img.shields.io/badge/Python-blue?style=flat&logo=python&logoColor=white&link=https://github.com/winstonallo)
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
+![Rust](https://img.shields.io/badge/Rust-beige?style=flat&logo=c%2B%2B&logoColor=white&link=https://github.com/winstonallo)
 
 ## Tools
 
