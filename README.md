@@ -14,6 +14,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?style=flat&logo=javascript&logoColor=white&link=https://github.com/winstonallo)
 ![TypeScript](https://img.shields.io/badge/TypeScript-blue?style=flat&logo=typescript&logoColor=white&link=https://github.com/winstonallo)
 ![Rust](https://img.shields.io/badge/Rust-beige?style=flat&logo=rust&logoColor=white&link=https://github.com/winstonallo)
+![Go](https://img.shields.io/badge/Go-beige?style=flat&logo=go&logoColor=white&link=https://github.com/winstonallo)
+
 
 ## Tools
 
