@@ -1,0 +1,317 @@
+\documentclass[10pt, letterpaper]{article}
+
+\usepackage[
+    ignoreheadfoot,
+    top=1 cm,
+    bottom=2 cm,
+    left=2 cm,
+    right=2 cm,
+    footskip=1.0 cm,
+]{geometry}
+\usepackage{titlesec}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{primaryColor}{RGB}{0, 0, 0}
+\usepackage{enumitem}
+\usepackage[
+    pdftitle={Arthur Bied-Charreton's CV},
+    pdfauthor={Arthur Bied-Charreton},
+    pdfcreator={LaTeX with RenderCV},
+    colorlinks=true,
+    urlcolor=primaryColor
+]{hyperref}
+\usepackage[pscoord]{eso-pic}
+\usepackage{calc}
+\usepackage{changepage}
+\usepackage{paracol}
+\usepackage{needspace}
+\usepackage{iftex}
+
+\ifPDFTeX
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc}
+    \usepackage{lmodern}
+\fi
+
+\usepackage{charter}
+
+\raggedright
+\AtBeginEnvironment{adjustwidth}{\partopsep0pt}
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+\setlength{\parindent}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\columnsep}{0.15cm}
+\pagenumbering{gobble}
+
+\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
+
+\titlespacing{\section}{
+    -1pt
+}{
+    0.3 cm
+}{
+    0.2 cm
+}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$} % custom bullet points
+\newenvironment{highlights}{
+    \begin{itemize}[
+        topsep=0.10 cm,
+        parsep=0.10 cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=0 cm + 10pt
+    ]
+}{
+    \end{itemize}
+}
+
+
+\newenvironment{highlightsforbulletentries}{
+    \begin{itemize}[
+        topsep=0.10 cm,
+        parsep=0.10 cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=10pt
+    ]
+}{
+    \end{itemize}
+}
+
+\newenvironment{onecolentry}{
+    \begin{adjustwidth}{
+        0 cm + 0.00001 cm
+    }{
+        0 cm + 0.00001 cm
+    }
+}{
+    \end{adjustwidth}
+}
+
+\newenvironment{twocolentry}[2][]{
+    \onecolentry
+    \def\secondColumn{#2}
+    \setcolumnwidth{\fill, 4.5 cm}
+    \begin{paracol}{2}
+}{
+    \switchcolumn \raggedleft \secondColumn
+    \end{paracol}
+    \endonecolentry
+}
+
+\newenvironment{header}{
+    \setlength{\topsep}{0pt}\par\kern\topsep\centering\linespread{1.5}
+}{
+    \par\kern\topsep
+}
+
+\newcommand{\placelastupdatedtext}{
+  \AddToShipoutPictureFG*{
+    \put(
+        \LenToUnit{\paperwidth-2 cm-0 cm+0.05cm},
+        \LenToUnit{\paperheight-1.0 cm}
+    ){\vtop{{\null}\makebox[0pt][c]{
+        \small\color{gray}\textit{Last updated in July 2025}\hspace{\widthof{Last updated in July 2025}}
+    }}}
+  }
+}
+
+\let\hrefWithoutArrow\href
+
+\begin{document}
+    \newcommand{\AND}{\unskip
+        \cleaders\copy\ANDbox\hskip\wd\ANDbox
+        \ignorespaces
+    }
+    \newsavebox\ANDbox
+    \sbox\ANDbox{$|$}
+
+    \begin{header}
+        \fontsize{25 pt}{25 pt}\selectfont Arthur Bied-Charreton
+
+        \vspace{5 pt}
+
+        \normalsize
+        \mbox{Vienna}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{mailto:arthurbiedchar@gmail.com}{arthurbiedchar@gmail.com}}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{tel:+436641502349}{+43 (0) 664 1502349}}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{https://linkedin.com/in/arthur-bied-charreton}{LinkedIn}}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{https://github.com/winstonallo}{GitHub}}%
+    \end{header}
+
+    \vspace{15 pt - 0.3 cm}
+
+    \begin{onecolentry}
+        Software engineer passionate about systems programming, infrastructure, and open source.
+    \end{onecolentry}
+
+    \vspace{-0.1 cm}
+
+    \section{Education}
+
+    \begin{twocolentry}
+    {Expected 2026}
+        \href{https://www.42network.org/blog/breaking-news-42-ranks-3rd-worldwide-for-innovation/}{\textbf{42}}, Software Engineering (\href{https://europass.europa.eu/en/description-eight-eqf-levels}{EQF 7}, Master's level)
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+
+    \begin{onecolentry}
+        \begin{highlights}
+            \item \textbf{Grade:} Top 1\%
+            \item \textbf{Coursework:} Operating Systems, Networking, Systems Programming, DSA, OOP, DevOps, Cryptography
+            \item \textbf{Tutoring:} Mentoring and assessing candidates during the highly competitive selection process
+            \item \textbf{Mentoring:} Providing weekly check-ins to individual students with detailed code reviews
+        \end{highlights}
+    \end{onecolentry}
+
+    \section{Experience}
+        
+    \begin{twocolentry}
+        {March 2025 – Aug 2025}
+        \textbf{Software Engineer Intern}, Fronius -- Vienna, Austria
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Designed and implemented a validation system for ML pipelines, monitoring each stage's inputs \& outputs, allowing for early anomaly detection
+            \item Developed a Python SDK to facilitate mocking of pipeline dependencies in integration tests, shifting anomaly detection left from manual testing of the whole pipelines to automated CI for single steps 
+            \item Made continuous improvements on the CI setup, ultimately reducing execution time by over 80\% on average
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{twocolentry}
+        {July 2024 – January 2025}
+        \textbf{Software Engineer Intern}, EVVA -- Vienna, Austria
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Developed an email classification system in Rust and Python, which reduced manual order processing workload equivalent to 2 full-time positions
+            \item Deployed an on-premises CI/CD pipeline, significantly reducing deployment times 
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{twocolentry}
+        {February 2024 – July 2024}
+        \textbf{Student Support - IT Delivery}, Raiffeisenlandesbank NÖ-Wien -- Vienna, Austria
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Supported transition from Excel to Jira/Confluence for project management
+            \item Collaborated with teams to optimize the issue-tracking process
+        \end{highlights}
+    \end{onecolentry}
+
+    \section{Projects}
+        
+    \begin{twocolentry}
+        {Rust, x86 Assembly}
+        \href{https://github.com/kentucky-fried-kernel/kfs}{\textbf{32-bit Kernel}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Development of a bootable 32-bit kernel to deepen understanding of operating systems  
+            \item Implementation of core functionalities such as ASM boot code, screen interfacing, and interrupt tables
+        \end{highlights}
+    \end{onecolentry}
+
+
+    \vspace{0.2 cm}
+
+    \begin{twocolentry}
+        {C++}
+        \href{https://github.com/winstonallo/webserv}{\textbf{HTTP Webserver}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Developed an HTTP webserver inspired by Nginx, handling GET, POST, and DELETE methods
+            \item Fully single-threaded, relies solely on non-blocking I/O for request handling
+            \item Support for cookies, CGI, file uploads, and static content delivery
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{twocolentry}
+        {Rust}
+        \href{https://github.com/winstonallo/taskmaster}{\textbf{Unix Job Control System}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Manages processes with configurable policies, health checks, and a control shell
+            \item Uses a state machine to keep track of process-related events
+            \item Allows for starting processes with deescalated privileges, configuration hot-reload, and real-time monitoring 
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2cm}
+
+    \begin{twocolentry}
+        {Rust, Golang}
+        \href{https://github.com/42-Short/shortinette}{\textbf{Organization of Rust Bootcamp}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Organized 7-day Rust curriculum for fellow students, covering fundamentals to more advanced topics (pattern matching, traits, algebraic data types, async, unsafe Rust, and foreign function interfaces)
+            \item Webhook-triggered autonomous grading system with isolated code execution with Docker
+        \end{highlights}
+    \end{onecolentry}
+
+    \section{Skills \& Technologies}
+
+    \begin{onecolentry}
+        \textbf{Programming Languages:} Rust, Python, C, C++, Golang, TypeScript, SQL, Bash
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{onecolentry}
+        \textbf{Technologies:} Git, Linux, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Jenkins, Ansible
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{onecolentry}
+        \textbf{Spoken Languages:} French (Native), German (Fluent), English (Fluent)
+    \end{onecolentry}
+
+\end{document}
