@@ -1,0 +1,317 @@
+\documentclass[10pt, letterpaper]{article}
+
+\usepackage[
+    ignoreheadfoot,
+    top=1 cm,
+    bottom=2 cm,
+    left=2 cm,
+    right=2 cm,
+    footskip=1.0 cm,
+]{geometry}
+\usepackage{titlesec}
+\usepackage[dvipsnames]{xcolor}
+\definecolor{primaryColor}{RGB}{0, 0, 0}
+\usepackage{enumitem}
+\usepackage[
+    pdftitle={Arthur Bied-Charretons Lebenslauf},
+    pdfauthor={Arthur Bied-Charreton},
+    pdfcreator={LaTeX with RenderCV},
+    colorlinks=true,
+    urlcolor=primaryColor
+]{hyperref}
+\usepackage[pscoord]{eso-pic}
+\usepackage{calc}
+\usepackage{changepage}
+\usepackage{paracol}
+\usepackage{needspace}
+\usepackage{iftex}
+
+\ifPDFTeX
+    \input{glyphtounicode}
+    \pdfgentounicode=1
+    \usepackage[T1]{fontenc}
+    \usepackage[utf8]{inputenc}
+    \usepackage{lmodern}
+\fi
+
+\usepackage{charter}
+
+\raggedright
+\AtBeginEnvironment{adjustwidth}{\partopsep0pt}
+\pagestyle{empty}
+\setcounter{secnumdepth}{0}
+\setlength{\parindent}{0pt}
+\setlength{\topskip}{0pt}
+\setlength{\columnsep}{0.15cm}
+\pagenumbering{gobble}
+
+\titleformat{\section}{\needspace{4\baselineskip}\bfseries\large}{}{0pt}{}[\vspace{1pt}\titlerule]
+
+\titlespacing{\section}{
+    -1pt
+}{
+    0.3 cm
+}{
+    0.2 cm
+}
+
+\renewcommand\labelitemi{$\vcenter{\hbox{\small$\bullet$}}$} % custom bullet points
+\newenvironment{highlights}{
+    \begin{itemize}[
+        topsep=0.10 cm,
+        parsep=0.10 cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=0 cm + 10pt
+    ]
+}{
+    \end{itemize}
+}
+
+
+\newenvironment{highlightsforbulletentries}{
+    \begin{itemize}[
+        topsep=0.10 cm,
+        parsep=0.10 cm,
+        partopsep=0pt,
+        itemsep=0pt,
+        leftmargin=10pt
+    ]
+}{
+    \end{itemize}
+}
+
+\newenvironment{onecolentry}{
+    \begin{adjustwidth}{
+        0 cm + 0.00001 cm
+    }{
+        0 cm + 0.00001 cm
+    }
+}{
+    \end{adjustwidth}
+}
+
+\newenvironment{twocolentry}[2][]{
+    \onecolentry
+    \def\secondColumn{#2}
+    \setcolumnwidth{\fill, 4.5 cm}
+    \begin{paracol}{2}
+}{
+    \switchcolumn \raggedleft \secondColumn
+    \end{paracol}
+    \endonecolentry
+}
+
+\newenvironment{header}{
+    \setlength{\topsep}{0pt}\par\kern\topsep\centering\linespread{1.5}
+}{
+    \par\kern\topsep
+}
+
+\newcommand{\placelastupdatedtext}{
+  \AddToShipoutPictureFG*{
+    \put(
+        \LenToUnit{\paperwidth-2 cm-0 cm+0.05cm},
+        \LenToUnit{\paperheight-1.0 cm}
+    ){\vtop{{\null}\makebox[0pt][c]{
+        \small\color{gray}\textit{Zuletzt aktualisiert im Juli 2025}\hspace{\widthof{Zuletzt aktualisiert im Juli 2025}}
+    }}}
+  }
+}
+
+\let\hrefWithoutArrow\href
+
+\begin{document}
+    \newcommand{\AND}{\unskip
+        \cleaders\copy\ANDbox\hskip\wd\ANDbox
+        \ignorespaces
+    }
+    \newsavebox\ANDbox
+    \sbox\ANDbox{$|$}
+
+    \begin{header}
+        \fontsize{25 pt}{25 pt}\selectfont Arthur Bied-Charreton
+
+        \vspace{5 pt}
+
+        \normalsize
+        \mbox{Wien}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{mailto:arthurbiedchar@gmail.com}{arthurbiedchar@gmail.com}}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{tel:+436641502349}{+43 (0) 664 1502349}}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{https://linkedin.com/in/arthur-bied-charreton}{LinkedIn}}%
+        \kern 5.0 pt%
+        \AND%
+        \kern 5.0 pt%
+        \mbox{\hrefWithoutArrow{https://github.com/winstonallo}{GitHub}}%
+    \end{header}
+
+    \vspace{15 pt - 0.3 cm}
+
+    \begin{onecolentry}
+        Softwareentwickler mit Leidenschaft für Systemprogrammierung, Infrastruktur und Open Source.
+    \end{onecolentry}
+
+    \vspace{-0.1 cm}
+
+    \section{Ausbildung}
+
+    \begin{twocolentry}
+    {Voraussichtlich 2026}
+        \href{https://www.42network.org/blog/breaking-news-42-ranks-3rd-worldwide-for-innovation/}{\textbf{42}}, Software Engineering (\href{https://europass.europa.eu/en/description-eight-eqf-levels}{EQR 7}, Master-Niveau)
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+
+    \begin{onecolentry}
+        \begin{highlights}
+            \item \textbf{Note:} Top 1\%
+            \item \textbf{Kursinhalte:} Betriebssysteme, Netzwerktechnik, Systemprogrammierung, DSA, OOP, DevOps, Kryptographie
+            \item \textbf{Tutoring:} Betreuung und Bewertung von Kandidaten während des hochselektiven Auswahlprozesses
+            \item \textbf{Mentoring:} Wöchentliche Einzelbetreuung von Studenten mit detaillierten Code-Reviews
+        \end{highlights}
+    \end{onecolentry}
+
+    \section{Berufserfahrung}
+        
+    \begin{twocolentry}
+        {März 2025 – Aug 2025}
+        \textbf{Software Engineer (Praktikum)}, Fronius -- Wien, Österreich
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Entwurf und Implementierung eines Validierungssystems für ML-Pipelines, das In/Outputs jedes Schritts überwacht und frühzeitig Anomalien erkennt
+            \item Entwicklung eines Python-SDKs zum Mocking von Pipeline-Abhängigkeiten in Integrationstests, Anomalieerkennung von manuellen Tests ganzer Pipelines zu automatisierten CI-Tests einzelner Schritte verlagert
+            \item Kontinuierliche Verbesserungen am CI-Setup, Ausführungszeit im Durchschnitt um über 80\% reduziert
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{twocolentry}
+        {Juli 2024 – Januar 2025}
+        \textbf{Software Engineer (Praktikum)}, EVVA -- Wien, Österreich
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Entwicklung eines E-Mail-Klassifizierungssystems in Rust und Python, das die manuelle Bestellabwicklung um 2 Vollzeitst-Äquivalente reduzierte
+            \item Bereitstellung einer lokalen CI/CD-Pipeline, wodurch die Deployment-Zeiten erheblich verkürzt wurden
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{twocolentry}
+        {Februar 2024 – Juli 2024}
+        \textbf{Student Support - IT Delivery}, Raiffeisenlandesbank NÖ-Wien -- Wien, Österreich
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Unterstützung bei der Umstellung von Excel auf Jira/Confluence für das Projektmanagement
+            \item Zusammenarbeit mit Teams zur Optimierung des Issue-Tracking-Prozesses
+        \end{highlights}
+    \end{onecolentry}
+
+    \section{Projekte}
+        
+    \begin{twocolentry}
+        {Rust, x86 Assembly}
+        \href{https://github.com/kentucky-fried-kernel/kfs}{\textbf{32-bit Kernel}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Entwicklung eines bootfähigen 32-bit Kernels
+            \item Implementierung von Kernfunktionalitäten wie ASM-Boot-Code, Bildschirmschnittstelle und Interrupt-Tabellen
+        \end{highlights}
+    \end{onecolentry}
+
+
+    \vspace{0.2 cm}
+
+    \begin{twocolentry}
+        {C++}
+        \href{https://github.com/winstonallo/webserv}{\textbf{HTTP Webserver}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Entwicklung eines Nginx-inspirierten HTTP-Webservers, mit Support für GET, POST, PUT und DELETE
+            \item Vollständig single-threaded, basiert ausschließlich auf non-blocking I/O für die Anfrageverarbeitung
+            \item Unterstützung für Cookies, CGI, Datei-Uploads und statische Inhaltsbereitstellung
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{twocolentry}
+        {Rust}
+        \href{https://github.com/winstonallo/taskmaster}{\textbf{Unix Job Control System}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Verwaltet Prozesse mit konfigurierbaren Richtlinien, Healthchecks und einer Controll-Shell
+            \item Verwendet eine State Machine zur Verfolgung prozessbezogener Ereignisse
+            \item Support für Privilege Deescalation, Konfiguration Hot-Reload und Echtzeitüberwachung
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2cm}
+
+    \begin{twocolentry}
+        {C, x86 Assembly}
+        \href{https://github.com/winstonallo/woody-woodpacker}{\textbf{64-bit ELF Packer}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Entwicklung eines Packers für 64-bit ELF-Binaries mit PIE-Support
+            \item Pack-time Code-Verschlüsselung und Self-Decryption via Shellcode-Injection
+        \end{highlights}
+    \end{onecolentry}
+
+    \section{Fähigkeiten \& Technologien}
+
+    \begin{onecolentry}
+        \textbf{Programmiersprachen:} Rust, Python, C, C++, Golang, TypeScript, SQL, Bash
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{onecolentry}
+        \textbf{Technologien:} Git, Linux, Docker, Kubernetes, GitLab CI/CD, GitHub Actions, Jenkins, Ansible
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+    \begin{onecolentry}
+        \textbf{Sprachen:} Französisch (Muttersprache), Deutsch (Fließend), Englisch (Fließend)
+    \end{onecolentry}
+
+\end{document}
