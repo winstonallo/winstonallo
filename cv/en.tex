@@ -158,6 +158,7 @@
 
     \begin{onecolentry}
         Software engineer passionate about systems programming, infrastructure, and open source.
+        I love making slow things fast, and manual things automatic.
     \end{onecolentry}
 
     \vspace{-0.1 cm}
@@ -258,7 +259,7 @@
     \begin{onecolentry}
         \begin{highlights}
             \item Developed an HTTP webserver inspired by Nginx, handling GET, POST, and DELETE methods
-            \item Fully single-threaded, relies solely on non-blocking I/O for request handling
+            \item Fully single-threaded, relies solely on non-blocking I/O for handling up to 1024 concurrent requests
             \item Support for cookies, CGI, file uploads, and static content delivery
         \end{highlights}
     \end{onecolentry}
@@ -275,7 +276,7 @@
     \begin{onecolentry}
         \begin{highlights}
             \item Manages processes with configurable policies, health checks, and a control shell
-            \item Uses a state machine to keep track of process-related events
+            \item Keeps track of process-related events using a finite state machine
             \item Allows for starting processes with deescalated privileges, configuration hot-reload, and real-time monitoring 
         \end{highlights}
     \end{onecolentry}
@@ -283,16 +284,16 @@
     \vspace{0.2cm}
 
     \begin{twocolentry}
-        {Rust, Golang}
-        \href{https://github.com/42-Short/shortinette}{\textbf{Organization of Rust Bootcamp}}
+        {C, x86 Assembly}
+        \href{https://github.com/winstonallo/woody-woodpacker}{\textbf{64-bit ELF Packer}}
     \end{twocolentry}
 
     \vspace{0.10 cm}
 
     \begin{onecolentry}
         \begin{highlights}
-            \item Organized 7-day Rust curriculum for fellow students, covering fundamentals to more advanced topics (pattern matching, traits, algebraic data types, async, unsafe Rust, and foreign function interfaces)
-            \item Webhook-triggered autonomous grading system with isolated code execution with Docker
+            \item Packer for 64-bit ELF binaries with PIE support
+            \item Pack-time code encryption, and self-decryption via shellcode-injection
         \end{highlights}
     \end{onecolentry}
 
