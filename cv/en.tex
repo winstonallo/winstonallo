@@ -71,8 +71,8 @@
 
 \newenvironment{highlightsforbulletentries}{
     \begin{itemize}[
-        topsep=0.10 cm,
-        parsep=0.10 cm,
+        topsep=0.05 cm,
+        parsep=0.05 cm,
         partopsep=0pt,
         itemsep=0pt,
         leftmargin=10pt
@@ -135,7 +135,7 @@
         \vspace{5 pt}
 
         \normalsize
-        \mbox{Vienna}%
+        \mbox{Vienna, Austria}%
         \kern 5.0 pt%
         \AND%
         \kern 5.0 pt%
@@ -157,11 +157,10 @@
     \vspace{15 pt - 0.3 cm}
 
     \begin{onecolentry}
-        Software engineer passionate about systems programming, infrastructure, and open source.
-        I love making slow things fast, and manual things automatic.
+        Software engineer passionate about systems programming, infrastructure, and open source. 
     \end{onecolentry}
 
-    \vspace{-0.1 cm}
+    \vspace{-0.2 cm}
 
     \section{Education}
 
@@ -176,8 +175,8 @@
         \begin{highlights}
             \item \textbf{Grade:} Top 1\%
             \item \textbf{Coursework:} Operating Systems, Networking, Systems Programming, DSA, OOP, DevOps, Cryptography
-            \item \textbf{Tutoring:} Mentoring and assessing candidates during the highly competitive selection process
-            \item \textbf{Mentoring:} Providing weekly check-ins to individual students with detailed code reviews
+            \item \textbf{Tutoring:} Mentoring and assessing candidates during the highly competitive selection process at 42
+            \item \textbf{Mentoring:} Providing weekly check-ins to individual students with detailed code reviews focused on performance-aware programming
         \end{highlights}
     \end{onecolentry}
 
@@ -194,7 +193,7 @@
         \begin{highlights}
             \item Designed and implemented a validation system for ML pipelines, monitoring each stage's inputs \& outputs, allowing for early anomaly detection
             \item Developed a Python SDK to facilitate mocking of pipeline dependencies in integration tests, shifting anomaly detection left from manual testing of the whole pipelines to automated CI for single steps 
-            \item Made continuous improvements on the CI setup, ultimately reducing execution time by over 80\% on average
+            \item Made continuous improvements to the CI setup, ultimately reducing average execution time by over 80\%
         \end{highlights}
     \end{onecolentry}
 
@@ -231,7 +230,23 @@
     \end{onecolentry}
 
     \section{Projects}
-        
+
+    \begin{twocolentry}
+        {Rust, LLVM, x86 Assembly}
+        \href{https://github.com/rust-lang/rust/}{\textbf{Rust Compiler Contributor}}
+    \end{twocolentry}
+
+    \vspace{0.10 cm}
+    
+    \begin{onecolentry}
+        \begin{highlights}
+            \item Fixed x86 calling convention implementation in rustc, resolving regparm parameter passing issues
+        \end{highlights}
+    \end{onecolentry}
+
+    \vspace{0.2 cm}
+
+
     \begin{twocolentry}
         {Rust, x86 Assembly}
         \href{https://github.com/kentucky-fried-kernel/kfs}{\textbf{32-bit Kernel}}
@@ -258,8 +273,7 @@
     
     \begin{onecolentry}
         \begin{highlights}
-            \item Developed an HTTP webserver inspired by Nginx, handling GET, POST, and DELETE methods
-            \item Fully single-threaded, relies solely on non-blocking I/O for handling up to 1024 concurrent requests
+            \item Single-threaded HTTP webserver relying solely on async I/O, handling GET, POST, PUT, and DELETE methods
             \item Support for cookies, CGI, file uploads, and static content delivery
         \end{highlights}
     \end{onecolentry}
@@ -276,7 +290,6 @@
     \begin{onecolentry}
         \begin{highlights}
             \item Manages processes with configurable policies, health checks, and a control shell
-            \item Finite state machine keeping track of process-related events
             \item Allows for starting processes with deescalated privileges, configuration hot-reload, and real-time monitoring 
         \end{highlights}
     \end{onecolentry}
